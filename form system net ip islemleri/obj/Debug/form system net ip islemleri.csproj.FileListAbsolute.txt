@@ -1,0 +1,11 @@
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\bin\Debug\form system net ip islemleri.exe.config
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\bin\Debug\form system net ip islemleri.exe
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\bin\Debug\form system net ip islemleri.pdb
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\obj\Debug\form system net ip islemleri.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\obj\Debug\form_system_net_ip_islemleri.Form1.resources
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\obj\Debug\form_system_net_ip_islemleri.Properties.Resources.resources
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\obj\Debug\form system net ip islemleri.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\obj\Debug\form system net ip islemleri.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\obj\Debug\form system net ip islemleri.exe
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\obj\Debug\form system net ip islemleri.pdb
+C:\Users\reela\source\repos\form system net ip islemleri\form system net ip islemleri\obj\Debug\form_system_net_ip_islemleri.Form2.resources
